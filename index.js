@@ -7,3 +7,5 @@ var cat = new Cat('meow');
 dog.eat(cat);
 
 console.log(dog);
+
+console.log('Test pull git');
