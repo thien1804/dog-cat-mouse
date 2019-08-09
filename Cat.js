@@ -4,4 +4,4 @@ function Cat(){
 Cat.prototype.eat = function(mouse){
 	this.stomach.push(mouse);
 }
-modudle.exports = Cat;
+module.exports = Cat;
